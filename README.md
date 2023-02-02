@@ -2,4 +2,6 @@
 
 - Kunal Kushwaha says that this community is amazing.
 - More power to kunal. love the work which your are doing for the community.
-- Anirudh Sharma finds the Community Classroom initiative really great!
+- KDS finds the Community Classroom initiative really great!
+- Its been my first time using git github.
+- Was really helpful.
